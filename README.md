@@ -4,7 +4,6 @@ pothole tracker and maybe more later. Data sent to a companion website(not creat
 The goal is to gather data from lots of people to help cities or other responsible bodies know where the roads need fixing so they can properly plan and fix the issues.
 
 data to record:
-
 - time
 - date
 - location GPS and/or address
